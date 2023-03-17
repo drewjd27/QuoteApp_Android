@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() {
                 responseBody: ByteArray
             ) {
                 // if connection is successful
-                binding.progressBar.visibility = View.VISIBLE
+                binding.progressBar.visibility = View.INVISIBLE
 
                 val result = String(responseBody)
                 Log.d(TAG, result)
