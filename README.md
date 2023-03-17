@@ -1,2 +1,2 @@
 # QuoteApp_Android
-This is a learning networking with LoopJ, and parsing JSON in an android app that will take and show text data quotes from an API.
+This is a repository to learn networking with LoopJ, and parsing JSON in an android app that will take data from API and show text data on the app interface.
